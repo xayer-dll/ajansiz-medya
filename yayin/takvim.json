@@ -38,7 +38,7 @@
  {
   "id": "c2",
   "tur": "carousel",
-  "zaman": "2026-11-05 18:00",
+  "zaman": "2026-11-06 18:00",
   "dosyalar": [
    "c2-01.jpg",
    "c2-02.jpg",
@@ -54,7 +54,7 @@
  {
   "id": "r2",
   "tur": "reels",
-  "zaman": "2026-11-04 18:00",
+  "zaman": "2026-11-05 18:00",
   "dosya": "r2.mp4",
   "aciklama": "AI kötü reklam yazmıyor, ona kötü brief veriliyor.\n\nKime, hangi dert, neye benzemesin. Bu üç satırı ekleyince çıktı değişir.\n\nHazır prompt'lar için profildeki 5 prompt paylaşımına bak.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret"
  },
@@ -67,7 +67,7 @@
  {
   "id": "c3",
   "tur": "carousel",
-  "zaman": "2026-11-03 18:00",
+  "zaman": "2026-11-04 18:00",
   "dosyalar": [
    "c3-01.jpg",
    "c3-02.jpg",
@@ -82,7 +82,7 @@
  {
   "id": "r3",
   "tur": "reels",
-  "zaman": "2026-11-06 18:00",
+  "zaman": "2026-11-07 18:00",
   "dosya": "r3.mp4",
   "aciklama": "Tutmayan reklam boşa giden para değil, bir sonraki reklamın notu.\n\nNeyin çalışmadığını gördüysen elinde artık daha iyi bir başlangıç var.\n\nBugün vazgeçmek üzere olan birine gönder.\n\n#reklam #dijitalreklam #girişimci #motivasyon #eticaret #kobi #yapayzeka"
  }
