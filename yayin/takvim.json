@@ -85,5 +85,28 @@
   "zaman": "2026-11-07 18:00",
   "dosya": "r3.mp4",
   "aciklama": "Tutmayan reklam boşa giden para değil, bir sonraki reklamın notu.\n\nNeyin çalışmadığını gördüysen elinde artık daha iyi bir başlangıç var.\n\nBugün vazgeçmek üzere olan birine gönder.\n\n#reklam #dijitalreklam #girişimci #motivasyon #eticaret #kobi #yapayzeka"
+ },
+ {
+  "id": "h4",
+  "tur": "hikaye",
+  "zaman": "2026-11-06 18:00",
+  "dosya": "h4.jpg",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c4",
+  "tur": "carousel",
+  "zaman": "2026-11-08 18:00",
+  "dosyalar": [
+   "c4-01.jpg",
+   "c4-02.jpg",
+   "c4-03.jpg",
+   "c4-04.jpg",
+   "c4-05.jpg",
+   "c4-06.jpg",
+   "c4-07.jpg"
+  ],
+  "aciklama": "Birden fazla şeyi aynı anda değiştirirsen neyin işe yaradığını bilemezsin.\n\nTek değişken, net bir soru, yeterli veri ve bir not defteri. Test böyle başlar.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\n#metaads #reklamtesti #dijitalreklam #eticaret #kobi #performanspazarlama #yapayzeka",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
