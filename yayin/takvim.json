@@ -124,5 +124,21 @@
   ],
   "aciklama": "Reklam raporu ekranı rakam dolu. Hepsine bakmak yerine hedefine uyan 2-3 rakamı seç.\n\nHangi reklam pahalı, hangisi izleniyor, tıklayan neden almıyor? Bu üç soruyla başla.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında kontrol et.\n\n#metaads #reklamanalizi #dijitalreklam #eticaret #kobi #performanspazarlama #yapayzeka",
   "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c6",
+  "tur": "carousel",
+  "zaman": "2026-11-10 18:00",
+  "dosyalar": [
+   "c6-01.jpg",
+   "c6-02.jpg",
+   "c6-03.jpg",
+   "c6-04.jpg",
+   "c6-05.jpg",
+   "c6-06.jpg",
+   "c6-07.jpg"
+  ],
+  "aciklama": "AI'dan görsel isterken tek cümle yazınca çıktı genel kalıyor. Ürün ve sahne, hedef kitle, kadraj ve ışık, istemediklerin: bu 4 parçayı ekle.\n\nÇıkan görseli yayınlamadan önce logo, yazı ve ürün detayını kontrol et.\n\nKaydet, sıradaki görsel promptunda kullan.\n\n#yapayzeka #aigörsel #prompt #reklamkreatifi #dijitalreklam #eticaret #kobi",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
