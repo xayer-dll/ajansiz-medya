@@ -140,5 +140,21 @@
   ],
   "aciklama": "AI'dan görsel isterken tek cümle yazınca çıktı genel kalıyor. Ürün ve sahne, hedef kitle, kadraj ve ışık, istemediklerin: bu 4 parçayı ekle.\n\nÇıkan görseli yayınlamadan önce logo, yazı ve ürün detayını kontrol et.\n\nKaydet, sıradaki görsel promptunda kullan.\n\n#yapayzeka #aigörsel #prompt #reklamkreatifi #dijitalreklam #eticaret #kobi",
   "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c7",
+  "tur": "carousel",
+  "zaman": "2026-11-11 18:00",
+  "dosyalar": [
+   "c7-01.jpg",
+   "c7-02.jpg",
+   "c7-03.jpg",
+   "c7-04.jpg",
+   "c7-05.jpg",
+   "c7-06.jpg",
+   "c7-07.jpg"
+  ],
+  "aciklama": "Reklam bir süre sonra eskiyebilir. Bütçeyi artırmadan önce sıklığa, tıklama oranının gidişine bak, sonra tek şeyi değiştirip dene.\n\nHer hesap farklıdır; sonucu kendi verinle doğrula.\n\nKaydet, reklam raporuna bakarken kullan.\n\n#metaads #dijitalreklam #reklamkreatifi #performanspazarlama #eticaret #kobi #girişimci",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
