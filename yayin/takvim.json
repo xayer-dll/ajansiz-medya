@@ -156,5 +156,21 @@
   ],
   "aciklama": "Reklam bir süre sonra eskiyebilir. Bütçeyi artırmadan önce sıklığa, tıklama oranının gidişine bak, sonra tek şeyi değiştirip dene.\n\nHer hesap farklıdır; sonucu kendi verinle doğrula.\n\nKaydet, reklam raporuna bakarken kullan.\n\n#metaads #dijitalreklam #reklamkreatifi #performanspazarlama #eticaret #kobi #girişimci",
   "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c8",
+  "tur": "carousel",
+  "zaman": "2026-11-12 18:00",
+  "dosyalar": [
+   "c8-01.jpg",
+   "c8-02.jpg",
+   "c8-03.jpg",
+   "c8-04.jpg",
+   "c8-05.jpg",
+   "c8-06.jpg",
+   "c8-07.jpg"
+  ],
+  "aciklama": "AI'dan reklam metni isterken tek cümle yazınca çıktı genel kalıyor. Kime yazdığını, hangi derdi çözdüğünü, tonu, yasaklarını ve kaç seçenek istediğini ekle.\n\nÇıkan metindeki rakam ve iddiaları yayınlamadan önce kontrol et.\n\nKaydet, sıradaki reklam metninde kullan.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret #kobi",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
