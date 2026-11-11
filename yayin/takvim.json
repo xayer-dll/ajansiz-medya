@@ -172,5 +172,21 @@
   ],
   "aciklama": "AI'dan reklam metni isterken tek cümle yazınca çıktı genel kalıyor. Kime yazdığını, hangi derdi çözdüğünü, tonu, yasaklarını ve kaç seçenek istediğini ekle.\n\nÇıkan metindeki rakam ve iddiaları yayınlamadan önce kontrol et.\n\nKaydet, sıradaki reklam metninde kullan.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret #kobi",
   "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c9",
+  "tur": "carousel",
+  "zaman": "2026-11-13 18:00",
+  "dosyalar": [
+   "c9-01.jpg",
+   "c9-02.jpg",
+   "c9-03.jpg",
+   "c9-04.jpg",
+   "c9-05.jpg",
+   "c9-06.jpg",
+   "c9-07.jpg"
+  ],
+  "aciklama": "Meta reklam bütçesi nasıl artırılır? Rakamı büyütmeden önce reklamın veri toplayıp toplamadığına, satış getirip getirmediğine ve hangi reklamın çalıştığına bak.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nHangi adımı en çok atlıyorsun? Yorumda yaz.\n\n#metaads #reklambütçesi #dijitalreklam #eticaret #kobi",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
