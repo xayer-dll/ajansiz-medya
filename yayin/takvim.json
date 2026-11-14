@@ -219,5 +219,20 @@
   ],
   "aciklama": "Meta reklam raporu nasıl okunur? Harcama, sonuç başına maliyet, tıklama oranı ve satışa dönüşen tıklamaya sırayla bak.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nRaporunda ilk hangi rakama bakıyorsun? Yorumda yaz.\n\n#metaads #reklamraporu #dijitalreklam #eticaret #kobi",
   "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c12",
+  "tur": "carousel",
+  "zaman": "2026-11-16 18:00",
+  "dosyalar": [
+   "c12-01.jpg",
+   "c12-02.jpg",
+   "c12-03.jpg",
+   "c12-04.jpg",
+   "c12-05.jpg",
+   "c12-06.jpg"
+  ],
+  "aciklama": "Müşteri neden almıyor? ChatGPT veya Claude'a ürününü, kitleni ve fiyatını yazıp en sık itirazları çıkarttır, sonra reklam metnini ona göre yaz.\n\nÇıkan itirazları gerçek müşteri sorularınla karşılaştır; AI tahmin eder, bilmez.\n\nMüşterilerin sana en çok hangi itirazı söylüyor? Yorumda yaz.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
