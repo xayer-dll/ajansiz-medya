@@ -234,5 +234,20 @@
   ],
   "aciklama": "Müşteri neden almıyor? ChatGPT veya Claude'a ürününü, kitleni ve fiyatını yazıp en sık itirazları çıkarttır, sonra reklam metnini ona göre yaz.\n\nÇıkan itirazları gerçek müşteri sorularınla karşılaştır; AI tahmin eder, bilmez.\n\nMüşterilerin sana en çok hangi itirazı söylüyor? Yorumda yaz.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret",
   "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+ },
+ {
+  "id": "c13",
+  "tur": "carousel",
+  "zaman": "2026-11-17 18:00",
+  "dosyalar": [
+   "c13-01.jpg",
+   "c13-02.jpg",
+   "c13-03.jpg",
+   "c13-04.jpg",
+   "c13-05.jpg",
+   "c13-06.jpg"
+  ],
+  "aciklama": "Meta reklam testi nasıl yapılır? Aynı reklamda yalnız ilk cümleyi değiştir: biri dert, biri iddia, biri soru olsun. Böylece neyin işe yaradığını görürsün.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nSen reklamında önce neyi test ediyorsun? Yorumda yaz.\n\n#metaads #reklamtesti #dijitalreklam #eticaret #kobi",
+  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
  }
 ]
