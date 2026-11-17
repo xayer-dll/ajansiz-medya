@@ -1,268 +1,283 @@
 [
- {
-  "id": "c1",
-  "tur": "carousel",
-  "zaman": "2026-10-30 18:00",
-  "dosyalar": [
-   "c1-01.jpg",
-   "c1-02.jpg",
-   "c1-03.jpg",
-   "c1-04.jpg",
-   "c1-05.jpg",
-   "c1-06.jpg",
-   "c1-07.jpg",
-   "c1-08.jpg",
-   "c1-09.jpg"
-  ],
-  "aciklama": "Ajansla çalışmak kötü bir şey değil. Hesabını, verini ve paranı görememek kötü.\n\nİmzadan önce bu 7 soruyu sor. İyi bir ajans hepsine rahatça cevap verir.\n\nAjansla çalışan ya da çalışmayı düşünen birine gönder.\n\n#dijitalreklam #metaads #reklamajansı #eticaret #kobi #girişimci #instagramreklamı #yapayzeka"
- },
- {
-  "id": "h1",
-  "tur": "hikaye",
-  "zaman": "2026-10-30 18:00",
-  "dosya": "h1.jpg"
- },
- {
-  "id": "r1",
-  "tur": "reels",
-  "zaman": "2026-10-31 18:00",
-  "dosya": "r1.mp4",
-  "aciklama": "İnsanların çoğu reklamı sessiz izliyor. İlk karede kime konuştuğun belli değilse kaydırıp geçiyor.\n\n3 saniye testini sıradaki reklamından önce yap.\n\n#metaads #dijitalreklam #reklamkreatifi #eticaret #kobi #instagramreels #yapayzeka"
- },
- {
-  "id": "h2",
-  "tur": "hikaye",
-  "zaman": "2026-11-01 18:00",
-  "dosya": "h2.jpg"
- },
- {
-  "id": "c2",
-  "tur": "carousel",
-  "zaman": "2026-11-06 18:00",
-  "dosyalar": [
-   "c2-01.jpg",
-   "c2-02.jpg",
-   "c2-03.jpg",
-   "c2-04.jpg",
-   "c2-05.jpg",
-   "c2-06.jpg",
-   "c2-07.jpg",
-   "c2-08.jpg"
-  ],
-  "aciklama": "Ayarları kurcalamak eskisi kadar fark yaratmıyor. Meta otomasyona doğru giderken reklamın kendisi daha önemli hale geliyor.\n\nSon 3 reklamını yan yana koy. Üçü de aynı kişiye mi konuşuyor?\n\nMeta'nın sistemleri zamanla değişiyor, sonucu kendi hesabında test et.\n\n#metaads #advantageplus #dijitalreklam #eticaret #reklamkreatifi #performanspazarlama #yapayzeka"
- },
- {
-  "id": "r2",
-  "tur": "reels",
-  "zaman": "2026-11-05 18:00",
-  "dosya": "r2.mp4",
-  "aciklama": "AI kötü reklam yazmıyor, ona kötü brief veriliyor.\n\nKime, hangi dert, neye benzemesin. Bu üç satırı ekleyince çıktı değişir.\n\nHazır prompt'lar için profildeki 5 prompt paylaşımına bak.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret"
- },
- {
-  "id": "h3",
-  "tur": "hikaye",
-  "zaman": "2026-11-04 18:00",
-  "dosya": "h3.jpg"
- },
- {
-  "id": "c3",
-  "tur": "carousel",
-  "zaman": "2026-11-04 18:00",
-  "dosyalar": [
-   "c3-01.jpg",
-   "c3-02.jpg",
-   "c3-03.jpg",
-   "c3-04.jpg",
-   "c3-05.jpg",
-   "c3-06.jpg",
-   "c3-07.jpg"
-  ],
-  "aciklama": "Boş sayfaya bakma. Müşteri yorumundan başla, fikir üret, sonra metnini eleştirt.\n\nKöşeli parantezleri kendi ürününle doldur. Çıkan rakam ve iddiaları yayınlamadan önce mutlaka kontrol et.\n\nKaydet, sıradaki reklamında kullan.\n\n#yapayzeka #chatgpt #claude #promptmühendisliği #reklammetni #dijitalreklam #eticaret"
- },
- {
-  "id": "r3",
-  "tur": "reels",
-  "zaman": "2026-11-07 18:00",
-  "dosya": "r3.mp4",
-  "aciklama": "Tutmayan reklam boşa giden para değil, bir sonraki reklamın notu.\n\nNeyin çalışmadığını gördüysen elinde artık daha iyi bir başlangıç var.\n\nBugün vazgeçmek üzere olan birine gönder.\n\n#reklam #dijitalreklam #girişimci #motivasyon #eticaret #kobi #yapayzeka"
- },
- {
-  "id": "h4",
-  "tur": "hikaye",
-  "zaman": "2026-11-06 18:00",
-  "dosya": "h4.jpg",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c4",
-  "tur": "carousel",
-  "zaman": "2026-11-08 18:00",
-  "dosyalar": [
-   "c4-01.jpg",
-   "c4-02.jpg",
-   "c4-03.jpg",
-   "c4-04.jpg",
-   "c4-05.jpg",
-   "c4-06.jpg",
-   "c4-07.jpg"
-  ],
-  "aciklama": "Birden fazla şeyi aynı anda değiştirirsen neyin işe yaradığını bilemezsin.\n\nTek değişken, net bir soru, yeterli veri ve bir not defteri. Test böyle başlar.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\n#metaads #reklamtesti #dijitalreklam #eticaret #kobi #performanspazarlama #yapayzeka",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c5",
-  "tur": "carousel",
-  "zaman": "2026-11-09 18:00",
-  "dosyalar": [
-   "c5-01.jpg",
-   "c5-02.jpg",
-   "c5-03.jpg",
-   "c5-04.jpg",
-   "c5-05.jpg",
-   "c5-06.jpg",
-   "c5-07.jpg"
-  ],
-  "aciklama": "Reklam raporu ekranı rakam dolu. Hepsine bakmak yerine hedefine uyan 2-3 rakamı seç.\n\nHangi reklam pahalı, hangisi izleniyor, tıklayan neden almıyor? Bu üç soruyla başla.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında kontrol et.\n\n#metaads #reklamanalizi #dijitalreklam #eticaret #kobi #performanspazarlama #yapayzeka",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c6",
-  "tur": "carousel",
-  "zaman": "2026-11-10 18:00",
-  "dosyalar": [
-   "c6-01.jpg",
-   "c6-02.jpg",
-   "c6-03.jpg",
-   "c6-04.jpg",
-   "c6-05.jpg",
-   "c6-06.jpg",
-   "c6-07.jpg"
-  ],
-  "aciklama": "AI'dan görsel isterken tek cümle yazınca çıktı genel kalıyor. Ürün ve sahne, hedef kitle, kadraj ve ışık, istemediklerin: bu 4 parçayı ekle.\n\nÇıkan görseli yayınlamadan önce logo, yazı ve ürün detayını kontrol et.\n\nKaydet, sıradaki görsel promptunda kullan.\n\n#yapayzeka #aigörsel #prompt #reklamkreatifi #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c7",
-  "tur": "carousel",
-  "zaman": "2026-11-11 18:00",
-  "dosyalar": [
-   "c7-01.jpg",
-   "c7-02.jpg",
-   "c7-03.jpg",
-   "c7-04.jpg",
-   "c7-05.jpg",
-   "c7-06.jpg",
-   "c7-07.jpg"
-  ],
-  "aciklama": "Reklam bir süre sonra eskiyebilir. Bütçeyi artırmadan önce sıklığa, tıklama oranının gidişine bak, sonra tek şeyi değiştirip dene.\n\nHer hesap farklıdır; sonucu kendi verinle doğrula.\n\nKaydet, reklam raporuna bakarken kullan.\n\n#metaads #dijitalreklam #reklamkreatifi #performanspazarlama #eticaret #kobi #girişimci",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c8",
-  "tur": "carousel",
-  "zaman": "2026-11-12 18:00",
-  "dosyalar": [
-   "c8-01.jpg",
-   "c8-02.jpg",
-   "c8-03.jpg",
-   "c8-04.jpg",
-   "c8-05.jpg",
-   "c8-06.jpg",
-   "c8-07.jpg"
-  ],
-  "aciklama": "AI'dan reklam metni isterken tek cümle yazınca çıktı genel kalıyor. Kime yazdığını, hangi derdi çözdüğünü, tonu, yasaklarını ve kaç seçenek istediğini ekle.\n\nÇıkan metindeki rakam ve iddiaları yayınlamadan önce kontrol et.\n\nKaydet, sıradaki reklam metninde kullan.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c9",
-  "tur": "carousel",
-  "zaman": "2026-11-13 18:00",
-  "dosyalar": [
-   "c9-01.jpg",
-   "c9-02.jpg",
-   "c9-03.jpg",
-   "c9-04.jpg",
-   "c9-05.jpg",
-   "c9-06.jpg",
-   "c9-07.jpg"
-  ],
-  "aciklama": "Meta reklam bütçesi nasıl artırılır? Rakamı büyütmeden önce reklamın veri toplayıp toplamadığına, satış getirip getirmediğine ve hangi reklamın çalıştığına bak.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nHangi adımı en çok atlıyorsun? Yorumda yaz.\n\n#metaads #reklambütçesi #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c10",
-  "tur": "carousel",
-  "zaman": "2026-11-14 18:00",
-  "dosyalar": [
-   "c10-01.jpg",
-   "c10-02.jpg",
-   "c10-03.jpg",
-   "c10-04.jpg",
-   "c10-05.jpg",
-   "c10-06.jpg",
-   "c10-07.jpg"
-  ],
-  "aciklama": "Instagram reklamı nasıl verilir? Bütçe girmeden önce hedefini, kitleni, teklifini, sayfanı ve ölçümünü netleştir.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nBu 5 maddeden hangisini en çok atlıyorsun? Yorumda yaz.\n\n#instagramreklamı #metaads #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c11",
-  "tur": "carousel",
-  "zaman": "2026-11-15 18:00",
-  "dosyalar": [
-   "c11-01.jpg",
-   "c11-02.jpg",
-   "c11-03.jpg",
-   "c11-04.jpg",
-   "c11-05.jpg",
-   "c11-06.jpg"
-  ],
-  "aciklama": "Meta reklam raporu nasıl okunur? Harcama, sonuç başına maliyet, tıklama oranı ve satışa dönüşen tıklamaya sırayla bak.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nRaporunda ilk hangi rakama bakıyorsun? Yorumda yaz.\n\n#metaads #reklamraporu #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c12",
-  "tur": "carousel",
-  "zaman": "2026-11-16 18:00",
-  "dosyalar": [
-   "c12-01.jpg",
-   "c12-02.jpg",
-   "c12-03.jpg",
-   "c12-04.jpg",
-   "c12-05.jpg",
-   "c12-06.jpg"
-  ],
-  "aciklama": "Müşteri neden almıyor? ChatGPT veya Claude'a ürününü, kitleni ve fiyatını yazıp en sık itirazları çıkarttır, sonra reklam metnini ona göre yaz.\n\nÇıkan itirazları gerçek müşteri sorularınla karşılaştır; AI tahmin eder, bilmez.\n\nMüşterilerin sana en çok hangi itirazı söylüyor? Yorumda yaz.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c13",
-  "tur": "carousel",
-  "zaman": "2026-11-17 18:00",
-  "dosyalar": [
-   "c13-01.jpg",
-   "c13-02.jpg",
-   "c13-03.jpg",
-   "c13-04.jpg",
-   "c13-05.jpg",
-   "c13-06.jpg"
-  ],
-  "aciklama": "Meta reklam testi nasıl yapılır? Aynı reklamda yalnız ilk cümleyi değiştir: biri dert, biri iddia, biri soru olsun. Böylece neyin işe yaradığını görürsün.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nSen reklamında önce neyi test ediyorsun? Yorumda yaz.\n\n#metaads #reklamtesti #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- },
- {
-  "id": "c14",
-  "tur": "carousel",
-  "zaman": "2026-11-18 18:00",
-  "dosyalar": [
-   "c14-01.jpg",
-   "c14-02.jpg",
-   "c14-03.jpg",
-   "c14-04.jpg",
-   "c14-05.jpg",
-   "c14-06.jpg"
-  ],
-  "aciklama": "Meta reklamı ne zaman kapatmalı? Kapatmadan önce hedef maliyetini, bekleme süreni ve hangi rakama bakacağını belirle.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nReklamı kapatırken sen neye bakıyorsun? Yorumda yaz.\n\n#metaads #reklamanalizi #dijitalreklam #eticaret #kobi",
-  "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
- }
+  {
+    "id": "c1",
+    "tur": "carousel",
+    "zaman": "2026-10-30 18:00",
+    "dosyalar": [
+      "c1-01.jpg",
+      "c1-02.jpg",
+      "c1-03.jpg",
+      "c1-04.jpg",
+      "c1-05.jpg",
+      "c1-06.jpg",
+      "c1-07.jpg",
+      "c1-08.jpg",
+      "c1-09.jpg"
+    ],
+    "aciklama": "Ajansla çalışmak kötü bir şey değil. Hesabını, verini ve paranı görememek kötü.\n\nİmzadan önce bu 7 soruyu sor. İyi bir ajans hepsine rahatça cevap verir.\n\nAjansla çalışan ya da çalışmayı düşünen birine gönder.\n\n#dijitalreklam #metaads #reklamajansı #eticaret #kobi #girişimci #instagramreklamı #yapayzeka"
+  },
+  {
+    "id": "h1",
+    "tur": "hikaye",
+    "zaman": "2026-10-30 18:00",
+    "dosya": "h1.jpg"
+  },
+  {
+    "id": "r1",
+    "tur": "reels",
+    "zaman": "2026-10-31 18:00",
+    "dosya": "r1.mp4",
+    "aciklama": "İnsanların çoğu reklamı sessiz izliyor. İlk karede kime konuştuğun belli değilse kaydırıp geçiyor.\n\n3 saniye testini sıradaki reklamından önce yap.\n\n#metaads #dijitalreklam #reklamkreatifi #eticaret #kobi #instagramreels #yapayzeka"
+  },
+  {
+    "id": "h2",
+    "tur": "hikaye",
+    "zaman": "2026-11-01 18:00",
+    "dosya": "h2.jpg"
+  },
+  {
+    "id": "c2",
+    "tur": "carousel",
+    "zaman": "2026-11-06 18:00",
+    "dosyalar": [
+      "c2-01.jpg",
+      "c2-02.jpg",
+      "c2-03.jpg",
+      "c2-04.jpg",
+      "c2-05.jpg",
+      "c2-06.jpg",
+      "c2-07.jpg",
+      "c2-08.jpg"
+    ],
+    "aciklama": "Ayarları kurcalamak eskisi kadar fark yaratmıyor. Meta otomasyona doğru giderken reklamın kendisi daha önemli hale geliyor.\n\nSon 3 reklamını yan yana koy. Üçü de aynı kişiye mi konuşuyor?\n\nMeta'nın sistemleri zamanla değişiyor, sonucu kendi hesabında test et.\n\n#metaads #advantageplus #dijitalreklam #eticaret #reklamkreatifi #performanspazarlama #yapayzeka"
+  },
+  {
+    "id": "r2",
+    "tur": "reels",
+    "zaman": "2026-11-05 18:00",
+    "dosya": "r2.mp4",
+    "aciklama": "AI kötü reklam yazmıyor, ona kötü brief veriliyor.\n\nKime, hangi dert, neye benzemesin. Bu üç satırı ekleyince çıktı değişir.\n\nHazır prompt'lar için profildeki 5 prompt paylaşımına bak.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret"
+  },
+  {
+    "id": "h3",
+    "tur": "hikaye",
+    "zaman": "2026-11-04 18:00",
+    "dosya": "h3.jpg"
+  },
+  {
+    "id": "c3",
+    "tur": "carousel",
+    "zaman": "2026-11-04 18:00",
+    "dosyalar": [
+      "c3-01.jpg",
+      "c3-02.jpg",
+      "c3-03.jpg",
+      "c3-04.jpg",
+      "c3-05.jpg",
+      "c3-06.jpg",
+      "c3-07.jpg"
+    ],
+    "aciklama": "Boş sayfaya bakma. Müşteri yorumundan başla, fikir üret, sonra metnini eleştirt.\n\nKöşeli parantezleri kendi ürününle doldur. Çıkan rakam ve iddiaları yayınlamadan önce mutlaka kontrol et.\n\nKaydet, sıradaki reklamında kullan.\n\n#yapayzeka #chatgpt #claude #promptmühendisliği #reklammetni #dijitalreklam #eticaret"
+  },
+  {
+    "id": "r3",
+    "tur": "reels",
+    "zaman": "2026-11-07 18:00",
+    "dosya": "r3.mp4",
+    "aciklama": "Tutmayan reklam boşa giden para değil, bir sonraki reklamın notu.\n\nNeyin çalışmadığını gördüysen elinde artık daha iyi bir başlangıç var.\n\nBugün vazgeçmek üzere olan birine gönder.\n\n#reklam #dijitalreklam #girişimci #motivasyon #eticaret #kobi #yapayzeka"
+  },
+  {
+    "id": "h4",
+    "tur": "hikaye",
+    "zaman": "2026-11-06 18:00",
+    "dosya": "h4.jpg",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c4",
+    "tur": "carousel",
+    "zaman": "2026-11-08 18:00",
+    "dosyalar": [
+      "c4-01.jpg",
+      "c4-02.jpg",
+      "c4-03.jpg",
+      "c4-04.jpg",
+      "c4-05.jpg",
+      "c4-06.jpg",
+      "c4-07.jpg"
+    ],
+    "aciklama": "Birden fazla şeyi aynı anda değiştirirsen neyin işe yaradığını bilemezsin.\n\nTek değişken, net bir soru, yeterli veri ve bir not defteri. Test böyle başlar.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\n#metaads #reklamtesti #dijitalreklam #eticaret #kobi #performanspazarlama #yapayzeka",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c5",
+    "tur": "carousel",
+    "zaman": "2026-11-09 18:00",
+    "dosyalar": [
+      "c5-01.jpg",
+      "c5-02.jpg",
+      "c5-03.jpg",
+      "c5-04.jpg",
+      "c5-05.jpg",
+      "c5-06.jpg",
+      "c5-07.jpg"
+    ],
+    "aciklama": "Reklam raporu ekranı rakam dolu. Hepsine bakmak yerine hedefine uyan 2-3 rakamı seç.\n\nHangi reklam pahalı, hangisi izleniyor, tıklayan neden almıyor? Bu üç soruyla başla.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında kontrol et.\n\n#metaads #reklamanalizi #dijitalreklam #eticaret #kobi #performanspazarlama #yapayzeka",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c6",
+    "tur": "carousel",
+    "zaman": "2026-11-10 18:00",
+    "dosyalar": [
+      "c6-01.jpg",
+      "c6-02.jpg",
+      "c6-03.jpg",
+      "c6-04.jpg",
+      "c6-05.jpg",
+      "c6-06.jpg",
+      "c6-07.jpg"
+    ],
+    "aciklama": "AI'dan görsel isterken tek cümle yazınca çıktı genel kalıyor. Ürün ve sahne, hedef kitle, kadraj ve ışık, istemediklerin: bu 4 parçayı ekle.\n\nÇıkan görseli yayınlamadan önce logo, yazı ve ürün detayını kontrol et.\n\nKaydet, sıradaki görsel promptunda kullan.\n\n#yapayzeka #aigörsel #prompt #reklamkreatifi #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c7",
+    "tur": "carousel",
+    "zaman": "2026-11-11 18:00",
+    "dosyalar": [
+      "c7-01.jpg",
+      "c7-02.jpg",
+      "c7-03.jpg",
+      "c7-04.jpg",
+      "c7-05.jpg",
+      "c7-06.jpg",
+      "c7-07.jpg"
+    ],
+    "aciklama": "Reklam bir süre sonra eskiyebilir. Bütçeyi artırmadan önce sıklığa, tıklama oranının gidişine bak, sonra tek şeyi değiştirip dene.\n\nHer hesap farklıdır; sonucu kendi verinle doğrula.\n\nKaydet, reklam raporuna bakarken kullan.\n\n#metaads #dijitalreklam #reklamkreatifi #performanspazarlama #eticaret #kobi #girişimci",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c8",
+    "tur": "carousel",
+    "zaman": "2026-11-12 18:00",
+    "dosyalar": [
+      "c8-01.jpg",
+      "c8-02.jpg",
+      "c8-03.jpg",
+      "c8-04.jpg",
+      "c8-05.jpg",
+      "c8-06.jpg",
+      "c8-07.jpg"
+    ],
+    "aciklama": "AI'dan reklam metni isterken tek cümle yazınca çıktı genel kalıyor. Kime yazdığını, hangi derdi çözdüğünü, tonu, yasaklarını ve kaç seçenek istediğini ekle.\n\nÇıkan metindeki rakam ve iddiaları yayınlamadan önce kontrol et.\n\nKaydet, sıradaki reklam metninde kullan.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c9",
+    "tur": "carousel",
+    "zaman": "2026-11-13 18:00",
+    "dosyalar": [
+      "c9-01.jpg",
+      "c9-02.jpg",
+      "c9-03.jpg",
+      "c9-04.jpg",
+      "c9-05.jpg",
+      "c9-06.jpg",
+      "c9-07.jpg"
+    ],
+    "aciklama": "Meta reklam bütçesi nasıl artırılır? Rakamı büyütmeden önce reklamın veri toplayıp toplamadığına, satış getirip getirmediğine ve hangi reklamın çalıştığına bak.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nHangi adımı en çok atlıyorsun? Yorumda yaz.\n\n#metaads #reklambütçesi #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c10",
+    "tur": "carousel",
+    "zaman": "2026-11-14 18:00",
+    "dosyalar": [
+      "c10-01.jpg",
+      "c10-02.jpg",
+      "c10-03.jpg",
+      "c10-04.jpg",
+      "c10-05.jpg",
+      "c10-06.jpg",
+      "c10-07.jpg"
+    ],
+    "aciklama": "Instagram reklamı nasıl verilir? Bütçe girmeden önce hedefini, kitleni, teklifini, sayfanı ve ölçümünü netleştir.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nBu 5 maddeden hangisini en çok atlıyorsun? Yorumda yaz.\n\n#instagramreklamı #metaads #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c11",
+    "tur": "carousel",
+    "zaman": "2026-11-15 18:00",
+    "dosyalar": [
+      "c11-01.jpg",
+      "c11-02.jpg",
+      "c11-03.jpg",
+      "c11-04.jpg",
+      "c11-05.jpg",
+      "c11-06.jpg"
+    ],
+    "aciklama": "Meta reklam raporu nasıl okunur? Harcama, sonuç başına maliyet, tıklama oranı ve satışa dönüşen tıklamaya sırayla bak.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nRaporunda ilk hangi rakama bakıyorsun? Yorumda yaz.\n\n#metaads #reklamraporu #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c12",
+    "tur": "carousel",
+    "zaman": "2026-11-16 18:00",
+    "dosyalar": [
+      "c12-01.jpg",
+      "c12-02.jpg",
+      "c12-03.jpg",
+      "c12-04.jpg",
+      "c12-05.jpg",
+      "c12-06.jpg"
+    ],
+    "aciklama": "Müşteri neden almıyor? ChatGPT veya Claude'a ürününü, kitleni ve fiyatını yazıp en sık itirazları çıkarttır, sonra reklam metnini ona göre yaz.\n\nÇıkan itirazları gerçek müşteri sorularınla karşılaştır; AI tahmin eder, bilmez.\n\nMüşterilerin sana en çok hangi itirazı söylüyor? Yorumda yaz.\n\n#yapayzeka #chatgpt #claude #reklammetni #prompt #dijitalreklam #eticaret",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c13",
+    "tur": "carousel",
+    "zaman": "2026-11-17 18:00",
+    "dosyalar": [
+      "c13-01.jpg",
+      "c13-02.jpg",
+      "c13-03.jpg",
+      "c13-04.jpg",
+      "c13-05.jpg",
+      "c13-06.jpg"
+    ],
+    "aciklama": "Meta reklam testi nasıl yapılır? Aynı reklamda yalnız ilk cümleyi değiştir: biri dert, biri iddia, biri soru olsun. Böylece neyin işe yaradığını görürsün.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nSen reklamında önce neyi test ediyorsun? Yorumda yaz.\n\n#metaads #reklamtesti #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c14",
+    "tur": "carousel",
+    "zaman": "2026-11-18 18:00",
+    "dosyalar": [
+      "c14-01.jpg",
+      "c14-02.jpg",
+      "c14-03.jpg",
+      "c14-04.jpg",
+      "c14-05.jpg",
+      "c14-06.jpg"
+    ],
+    "aciklama": "Meta reklamı ne zaman kapatmalı? Kapatmadan önce hedef maliyetini, bekleme süreni ve hangi rakama bakacağını belirle.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nReklamı kapatırken sen neye bakıyorsun? Yorumda yaz.\n\n#metaads #reklamanalizi #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  },
+  {
+    "id": "c15",
+    "tur": "carousel",
+    "zaman": "2026-11-19 18:00",
+    "dosyalar": [
+      "c15-01.jpg",
+      "c15-02.jpg",
+      "c15-03.jpg",
+      "c15-04.jpg",
+      "c15-05.jpg",
+      "c15-06.jpg"
+    ],
+    "aciklama": "Meta reklam görseli ne zaman değiştirilmeli? Sıklığa ve tıklama oranına bak, önce ilk kareyi yenile.\n\nSonuçlar hesaba, sektöre ve bütçeye göre değişir; kendi hesabında dene.\n\nReklam görselini sen ne sıklıkla yeniliyorsun? Yorumda yaz.\n\n#metaads #reklamanalizi #dijitalreklam #eticaret #kobi",
+    "taban": "https://raw.githubusercontent.com/xayer-dll/ajansiz-medya/main"
+  }
 ]
